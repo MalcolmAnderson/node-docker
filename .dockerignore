@@ -1,0 +1,9 @@
+node_modules
+Dockerfile
+.dockerignore
+.git
+.gitignore
+_build.ps1
+_login.ps1
+_run.ps1
+_shutdown.ps1

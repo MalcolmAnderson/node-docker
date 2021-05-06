@@ -1,0 +1,1 @@
+docker run -v ${pwd}:/app:ro -v /app/node_modules  -p 3000:3000 -d --name node-app node-app-image
